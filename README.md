@@ -56,10 +56,6 @@ A modern Android application for tracking personal finances, built with Kotlin a
   - Espresso
   - Compose Testing
 
-## 📱 Screenshots
-
-[Add screenshots of your app here]
-
 ## 🏗 System Architecture
 
 ### Data Flow
