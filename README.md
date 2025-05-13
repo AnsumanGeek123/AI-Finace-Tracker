@@ -197,8 +197,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
+Ansuman Das
+- GitHub: [@Ansuman](https://github.com/AnsumanGeek123)
 
 ## 🙏 Acknowledgments
 
@@ -210,7 +210,7 @@ Your Name
 
 ## 📞 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [# AI-Powered Personal Finance Tracker
+Contact Linkdln - [@Ansuman](https://www.linkedin.com/in/ansuman-das-90a9a0226/)
+Project Link: [# AI-Powered Personal Finance Tracker](https://github.com/AnsumanGeek123/AI-Finace-Tracker)
 
 A modern Android application for tracking personal finances, built with Kotlin and Jetpack Compose. This app demonstrates advanced Android development concepts and modern architecture patterns.
