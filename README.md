@@ -419,5 +419,5 @@ Your Name
 
 ## 📞 Contact
 
-Your Name - [@LinkdIn](https://www.linkedin.com/in/ansuman-das-90a9a0226/)
+Contact Me - [@LinkdIn](https://www.linkedin.com/in/ansuman-das-90a9a0226/)
 Project Link: [Project](https://github.com/AnsumanGeek123/AI-Finace-Tracker)
